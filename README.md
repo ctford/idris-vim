@@ -52,7 +52,7 @@ commands are supported.
 
 `<LocalLeader>m` add missing clause
 
-`<LocalLeader>p` proof search
+`<LocalLeader>o` proof search, `<LocalLeader>p` proof search with hints
 
 `<LocalLeader>i` open idris response window
 
