@@ -52,6 +52,8 @@ commands are supported.
 
 `<LocalLeader>m` add missing clause
 
+`<LocalLeader>f` refine item
+
 `<LocalLeader>p` proof search
 
 `<LocalLeader>i` open idris response window
